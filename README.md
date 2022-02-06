@@ -1,7 +1,7 @@
 # Planespotter's Friend
 
 Just a quick tool with VBScript I made when I was younger to parse data from FlightRadar24 into CSV format. 
-It uses Bash for installation, but you can just run these files wuthout the need for a clone.
+It uses Bash for installation, but you can just run these files without the need for a clone.
 I used VBScript's WshShell.SendKeys function for this, so it might be a bit clunky in 2022 - if anyone has any improvements, pull-request or email me on northpolaris@protonmail.com.
 ## Installation
 
