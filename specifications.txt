@@ -1,4 +1,4 @@
-Planespotter's Friend Specifications:
+Planespotter's Friend 1.0 Specifications:
 
 You must have a Microsoft OS. (XP or later, preferably Windows 10)
 You must have Google Chrome downloaded.
