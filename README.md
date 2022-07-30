@@ -1,16 +1,17 @@
 # Planespotter's Friend
 
-Just a quick tool with VBScript I made when I was younger to parse data from FlightRadar24 into CSV format. 
-It uses Bash for installation, but you can just run these files without the need for a clone.
-I used VBScript's WshShell.SendKeys function for this, so it might be a bit clunky in 2022 - if anyone has any improvements, pull-request or email me on northpolaris@protonmail.com.
+This is a quick tool I made to parse data from FlightRadar24 into CSV format. 
+It uses Batch for installation, but you can just run these files without the need for a clone.
+If anyone has any improvements, pull-request or email me on northpolaris@protonmail.com.
 ## Installation
 
-You can download the raw 'flight.vbs' yourself, or clone this repo using:
+You can download the release files (v2.0) yourself and run the installer, or clone this repo using:
 
 ```
 git clone https://github.com/POLARIS183/plane.git
 cd plane
 ```
+If you're cloning the repo, run the two batch files in the src folder.
 
 Easy stuff!
 
@@ -30,14 +31,7 @@ This should help in running the program.
 
 ### Running the program
 
-Put this folder on your path for easier usage, or cd to the 'plane' folder, and use the command:
-```
-flight
-```
-OR
-```
-flight.vbs
-```
+Put this folder on your path for easier usage, or cd to the 'plane' folder, and use the command you set up in installation.
 
 That's it! Follow the instructions on screen, and you should get a CSV or JSON of your desired flight.
 
@@ -50,7 +44,7 @@ Do you have an improvement you'd like to make?
 Is there a bug in the code on some OS's?
 Would you like to request another feature?
 
-Just email me at northpolaris@protonmail.com, or send me a pull request.
+Just email me at northpolaris@protonmail.com, or send me an issue.
 
 Thanks for taking the time to read this README.
 POLARIS183.
