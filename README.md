@@ -5,7 +5,7 @@ It uses Batch for installation, but you can just run these files without the nee
 If anyone has any improvements, pull-request or email me on northpolaris@protonmail.com.
 ## Installation
 
-You can download the release files (v2.0) yourself and run the installer, or clone this repo using:
+You can download the release files (v2.1) yourself and run the installer, or clone this repo using:
 
 ```
 git clone https://github.com/POLARIS183/plane.git
