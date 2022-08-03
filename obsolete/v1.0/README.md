@@ -1,4 +1,5 @@
 # Planespotter's Friend
+# THIS FILE IS OBSOLETE. DO NOT USE UNLESS YOU REALLY HAVE TO.
 
 Just a quick tool with VBScript I made when I was younger to parse data from FlightRadar24 into CSV format. 
 It uses Bash for installation, but you can just run these files without the need for a clone.
