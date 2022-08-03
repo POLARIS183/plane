@@ -34,6 +34,14 @@ This should help in running the program.
 Put this folder on your path for easier usage, or cd to the 'plane' folder, and use the command you set up in installation.
 
 That's it! Follow the instructions on screen, and you should get a CSV or JSON of your desired flight.
+Make sure you use the full path of the file, for instance:
+```
+C:\Users\polaris\Documents\example.csv
+```
+instead of:
+```
+example.csv
+```
 
 
 ## Contributing
